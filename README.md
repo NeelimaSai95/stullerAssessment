@@ -12,7 +12,8 @@ This project automates a small E2E workflow on https://www.stuller.com using Cyp
 # How to run tests:
 
 - Open Project in Visual Studio. 
-- Ensure NPM installed or NPM Install
+- Ensure NPM installed or NPM Install.
+- Add username and password details in cypress.env.json file.
 - cypress.env.json contain the environment variables.
 
   # To run test Open Terminal in VS Code
